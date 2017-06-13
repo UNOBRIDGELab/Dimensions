@@ -1,4 +1,4 @@
-# Information Archetypes & Dimension in Design
+# Information Archetypes & Dimensions in Design
 
 This repository provides complementary files related to Information Archetypes in Design research project.
 
