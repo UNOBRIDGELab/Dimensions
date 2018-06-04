@@ -42,7 +42,6 @@ Information that comes from within the individual or the individual’s organiza
 For example: Past experiences with products, autobiographical knowledge gained from experience or expertise (i.e., cannot be traced to a specific instance/ event where the information was obtained from another source), personal heuristics, individual preferences, intellectual property, etc.
 
 QUOTE:
-
 "Well, with [open source OS] we've had to build it from scratch because it's brand new, so there is a lot of code in there that was originally proprietary… We do start a lot of projects where some of the code is internal, and we think that we get some advantage from making it open”
 
 #### External (to Entity)
@@ -51,7 +50,6 @@ Information that comes from outside the individual or the individual’s organiz
 For example: Examples of other successful products, episodic knowledge gained from a past experience (i.e., can be traced to a specific instance/ event where the information obtained came from another source), recommendations from other designers or colleagues, best practices obtained from guidelines, etc.
 
 QUOTE:
-
 “We took the Linux kernel code and we decided that we were going to make all of these modifications to it for the [our 64-bit processor] we were working on”
 
 ### 2.	Abstraction of Information
