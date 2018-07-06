@@ -32,6 +32,7 @@ NOTE: A single sentence/ segment can be categorized as belonging to more than 1 
 
 
 
+
 ### 1.	Information Source
 
 Information Source refers to the origin of the information with respect to the individual or the individual’s organization that generated the idea. Partially describes idea ownership.
@@ -44,6 +45,7 @@ EXAMPLE: Past experiences with products, autobiographical knowledge gained from 
 QUOTE:
 "Well, with [open source OS] we've had to build it from scratch because it's brand new, so there is a lot of code in there that was originally proprietary… We do start a lot of projects where some of the code is internal, and we think that we get some advantage from making it open”
 
+
 #### External (to Entity)
 Information that comes from outside the individual or the individual’s organization’s own cognition. Information has most, if not all, inspiration from beyond the designer/organization at the time of information gathering or idea generation.
 
@@ -51,6 +53,9 @@ EXAMPLE: Examples of other successful products, episodic knowledge gained from a
 
 QUOTE:
 “We took the Linux kernel code and we decided that we were going to make all of these modifications to it for the [our 64-bit processor] we were working on”
+
+
+
 
 ### 2.	Abstraction of Information
 
@@ -64,6 +69,7 @@ EXAMPLE: Information that deals with general information about a design process,
 QUOTE:
 “And some of the code is directly related to the work that [our company] does and the hardware drivers. But we also do a lot of work that helps us in a more indirect way. We have a guy who's done a whole bunch of power optimizations in the Linux kernel... whose job is completely dedicated to that and to making things faster and more efficient and a few other things really around power consumption”
 
+
 #### Concrete (Concrete details)
 Information which deals with concrete details and instantiations.
 
@@ -71,6 +77,9 @@ EXAMPLE: Information that deals with specific features of the product, specifica
 
 QUOTE:
 “If we’re doing massive audio processing, low latency audio processing requires a couple gigaflops of CPU and we’re talking low latency in terms of 166 microseconds, it’s not going to happen in a user task, at least not with [our product]”
+
+
+
 
 ### 3.	Generality of Information
 
@@ -84,6 +93,7 @@ EXAMPLE: When designing a video playing application (e.g. QuickTime, Windows Med
 QUOTE:
 “To provide a graphics driver for Linux, we chose to leverage the same graphics driver code base – the core code base that's used on all the other platforms. So, the core of our code for [our open driver] for kernel-level support… is common across [multiple platforms]”
 
+
 #### Cross-Cutting (Standards and common issues)
 Information that is relevant and applicable across many design problems.  
 
@@ -91,6 +101,7 @@ EXAMPLE: Designing new training materials of a software that will be used by emp
 
 QUOTE:
 “Translation is big for a lot of projects. You know, it's written in English, and people everywhere else want to use it. And so, translating is a good way to contribute to projects”
+
 
 
 ### 4.	Effectuation of Information
@@ -105,6 +116,7 @@ EXAMPLE: Design decisions are made based on the current domain of design experti
 QUOTE:
 “What we get is 90% of the system, so [we] do less than 10% of the work. We then leverage that investment to provide client value. If we were doing Linux on our own, we would have to do that other 90% instead of doing other things for our clients and stockholders”
 
+
 #### Ends (Causal)
 Information that deals with the end goal of the design process or the needs that the product aims to fulfill. The end goal of the design shapes the design decisions.
 
@@ -113,7 +125,8 @@ EXAMPLE: Design decisions are made based on the customer needs of designed produ
 QUOTE:
 “It had to be based on circumstances that were involved and you just needed to solve that customer’s mission. If that was the piece of code you needed, you’ll come up with the right way to do it”
 
- 
+
+
 ### 5.	Representation of Information
 
 The form in which the information is obtained, or the manner in which the inspiration is articulated.
@@ -125,6 +138,7 @@ EXAMPLE: In-person conversations, phone calls, conferences, real-time video meet
 
 QUOTE:
 “We invite a bunch of people who are working on key components of the Linux kernel and we bring them in and we talk and tell them exactly what [our company] is doing, why, and what we'd like to see in the kernel and how we can work better together to do that”
+
 
 #### Asynchronous (Near-Real-Time)
 Information that was obtained from communication channels that allow for a delay in response.
