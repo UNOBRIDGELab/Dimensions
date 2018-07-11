@@ -59,7 +59,7 @@ QUOTE:
 
 ### 2.	Abstraction of Information
 
-Abstraction of Information refers to the level of abstraction of the information. Describes the extent to which the information deals with ideas vs events. Partially captures the level of detail found in the information (low detail signals abstraction, high detail signals concrete).
+Abstraction of Information refers to the level of abstraction of the information. Describes the extent to which the information deals with concrete events and details versus abstract ideas and concepts. Partially captures the level of detail found in the information (low detail signals abstraction, high detail signals concrete).
 
 #### Abstract (Ideas and Concepts)
 Information that is highly conceptual and deals with ideas and concepts instead of concrete details.
@@ -118,7 +118,7 @@ QUOTE:
 
 
 #### Ends (Causal)
-Information that deals with the end goal of the design process or the needs that the product aims to fulfill. The end goal of the design shapes the design decisions.
+Information that deals with the end goal of the design process or the needs that the product aims to fulfil. The end goal of the design shapes the design decisions.
 
 EXAMPLE: Design decisions are made based on the customer needs of designed product, other competing products, trends in the market, etc.
 
