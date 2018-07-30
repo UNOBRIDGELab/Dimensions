@@ -1,41 +1,39 @@
 ## Information Archetypes Interview Benchmarking Handbook
 
-
-This is a handbook of definitions and examples of information dimensions found in interview data that can be used as benchmarks in the rating process. The quotes here are examples of characteristics included in the coding scheme. This handbook should be used with the rater’s own notes compiled during the various training sessions.
+This is a handbook of definitions and examples of information dimensions found in interview data that can be used as benchmarks in the rating process. The quotes here are examples of characteristics included in the coding scheme. This handbook should be used with the rater’s own notes compiled during the various training sessions. A methodology is provided below the summary of the dimensions. 
 
 Each dimension presented in the handbook has two sub-levels associated with it. Definitions of the dimensions as well as the sub-levels are provided. Examples of quotes that correspond to each level are then provided for reference. These examples are used as benchmarks by the rater during coding in order to categorize sentences/ segments into the appropriate category.
 
-NOTE: A single sentence/ segment can be categorized as belonging to more than 1 dimension in this coding scheme.
+NOTE: A single sentence or segment can be categorized as belonging to more than 1 dimension in this coding scheme. Additionally, a segment may be associated with no, one or both of the sublevels. 
 
  
 ### SUMMARY OF DIMENSIONS
 
-### 1.	INFORMATION SOURCE
+#### 1.	INFORMATION SOURCE
 * INTERNAL (TO ENTITY)
 * EXTERNAL (TO ENTITY)
 
-### 2.	ABSTRACTION OF INFORMATION
+#### 2.	ABSTRACTION OF INFORMATION
 * ABSTRACT
 * CONCRETE
 
-### 3.	GENERALITY OF INFORMATION
+#### 3.	GENERALITY OF INFORMATION
 * DOMAIN SPECIFIC
 * CROSS-CUTTING
 
-### 4.	EFFECTUATION OF OF INFORMATION
+#### 4.	EFFECTUATION OF OF INFORMATION
 * MEANS (EFFECTUAL)
 * ENDS (CAUSAL)
 
-### 5.	REPRESENTATION OF INFORMATION
+#### 5.	REPRESENTATION OF INFORMATION
 * SYNCHRONOUS
 * ASYNCHRONOUS
 
 
 
 
-### 1.	Information Source
-
-Information Source refers to the origin of the information with respect to the individual or the individual’s organization that generated the idea. Partially describes idea ownership.
+#### 1.	Information Source
+Information Source refers to the origin of the information with respect to the individual or the individual’s organization that generated the idea. Partially describes idea ownership. 
 
 #### Internal (to Entity)
 Information that comes from within the individual or the individual’s organization’s own cognition. Information has no to minimal inspiration from beyond the designer/organization at the time of the information gathering or idea generation.
@@ -57,8 +55,7 @@ QUOTE:
 
 
 
-### 2.	Abstraction of Information
-
+#### 2.	Abstraction of Information
 Abstraction of Information refers to the level of abstraction of the information. Describes the extent to which the information deals with concrete events and details versus abstract ideas and concepts. Partially captures the level of detail found in the information (low detail signals abstraction, high detail signals concrete).
 
 #### Abstract (Ideas and Concepts)
@@ -81,9 +78,9 @@ QUOTE:
 
 
 
-### 3.	Generality of Information
-
+#### 3.	Generality of Information
 The Generality of Information deals with the level of generalizability of the information to other design tasks and projects. The extent to which the information is directly related to the domain of interest, as opposed to other more distant domains.
+NOTE: This is a tricky dimension, pay special attention when coding this. 
 
 #### Domain Specific (Closely related to the domain of interest)
 Information that is highly related to the domain of the design engagement (whatever is being designed).
@@ -104,8 +101,8 @@ QUOTE:
 
 
 
-### 4.	Effectuation of Information
 
+#### 4.	Effectuation of Information
 The	Effectuation of Information refers to the extent to which the information deals with the resources available to the designer versus with the end goal(s) of the design. Describes whether the information is the “means” or the “ends” of the design process.
 
 #### Means (Effectual)
@@ -127,9 +124,9 @@ QUOTE:
 
 
 
-### 5.	Representation of Information
 
-The form in which the information is obtained, or the manner in which the inspiration is articulated.
+#### 5.	Representation of Information
+The form in which the information is obtained, or the manner in which the inspiration is articulated. These levels can co-occur, for example when a website or other medium (asynchronous) is used to organize a meeting in person (synchronous). 
 
 #### Synchronous (Real-Time)
 Information that was obtained in real-time. In other words, there is an instant interaction between the sender and the receiver of the message, and that interaction can include verbal and non-verbal cues.
@@ -147,3 +144,26 @@ EXAMPLE: Emails, chat, blogs, trace data, publications, etc.
 
 QUOTE:
 “We've had some requests for people to use software that they found in a blog posting. And without a license attached to it, you just didn't know where it came from”
+
+
+
+
+### METHODOLOGY
+This is the approach that we have found to be most useful when coding, as well as helping others get up to speed with the coding process. Note that this is a time-intensive process that is mentally taxing. Each interview takes roughly 1.5 to 2 hours to code, and post-coding discussions may take up even more. 
+
+#### Pre-coding
+After reading through the coding handbook, make sure you have a working understanding of the dimensions. It is okay if you do not have a deep understanding, as this will come during the coding process. However, a solid base understanding is required to increase the quality of the coding. 
+
+Before you start actually coding, create a 'cheat sheet' in which you write down all 5 dimensions and their 2 sublevels on a piece of paper. Use this cheat sheet every time you code a segment, essentially using it as a checklist to make sure you did not accidentally overlook a dimension. 
+
+When coding independently with multiple coders: Go through the document that needs to be coded, and determine which segments are to be coded and which are not. 
+
+#### Coding process
+The coding itself can be done on paper or directly in Nvivo. In either case, keep the dimensions next to you on a separate piece of paper as you code. After reading the segment, write down which dimension levels you identified based on this first pass. Underlining or otherwise marking the sections in the segment that support why you picked that dimension level will make the post-coding discussions go smoother. For all dimensions, it is important to keep in mind what the perspective is (who is speaking and for whom), the context, as well as the direction. 
+
+For each segment that you code, look back at the 'cheat sheet' and ask yourself if you see the first dimension on it. If yes, write that dimension down, and underline the section in the text where you base that on. Next, or if that dimension was not found, look at the next dimension and repeat the process until all dimensions have been covered. When in doubt on the dimensions or something in the segment, go with your best guess but mark the section so that it can be discussed later with the other coders. 
+
+#### Post-coding
+After the coding has been completed in Nvivo, the coders will meet to discuss their coding results. The goal of this meeting is to resolve questions, and to further understanding of the dimensions. This is done by primarily looking at the disagreements in the coding, but more importantly why someone coding the segment the way they did. This will build and deepen the shared understanding among coders, and should improve the agreement rates in subsequent coding texts. 
+
+
