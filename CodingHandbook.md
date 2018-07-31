@@ -78,9 +78,12 @@ QUOTE:
 
 
 
-#### 3.	Generality of Information
-The Generality of Information deals with the level of generalizability of the information to other design tasks and projects. The extent to which the information is directly related to the domain of interest, as opposed to other more distant domains.
-NOTE: This is a tricky dimension, pay special attention when coding this. 
+### 3.	Generality of Information
+
+The Generality of Information deals with the level of generalizability of the information to other design tasks and projects. The extent to which the information is directly related to the domain of interest, as opposed to other more distant domains. 
+
+![Generality: DomainSpecific vs CrossCutting](https://image.ibb.co/dtGBw8/Screen_Shot_2018_07_30_at_10_34_45.png)
+
 
 #### Domain Specific (Closely related to the domain of interest)
 Information that is highly related to the domain of the design engagement (whatever is being designed).
