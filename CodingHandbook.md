@@ -21,7 +21,7 @@ NOTE: A single sentence or segment can be categorized as belonging to more than 
 * DOMAIN SPECIFIC
 * CROSS-CUTTING
 
-#### 4.	EFFECTUATION OF OF INFORMATION
+#### 4.	EFFECTUATION OF INFORMATION
 * MEANS (EFFECTUAL)
 * ENDS (CAUSAL)
 
