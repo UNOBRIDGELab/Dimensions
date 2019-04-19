@@ -6,14 +6,15 @@ Inquiries should be directed to Kevin Lumbard - klumbard@unomaha.edu
 
 ## Papers from this project:
 
-Yi, S., Lumbard, K., Damen, N., Germonprez, M., Toh, C., (2019). Towards an information archetypes framework: Exploring the types of information used in open source design engagements. IDETC 2019, CA. (Pending Publication)  
+Yi, S., Lumbard, K., Damen, N. B., Germonprez, M., & Toh, C. A. (2019). Towards An Information Archetypes Framework: Exploring The Types Of Information Used In Open Source Design Engagements. In ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC/CIE 2019. American Society of Mechanical Engineers (ASME). (Pending Publication)  
+
+Damen, N. B., & Toh, C. A. (2019). Investigating Information: A Qualitative Analysis Of EXPERT Designers’ Information Representation And Structuring Behaviors. In ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC/CIE 2019. American Society of Mechanical Engineers (ASME). (Pending Publication)
+
+Damen, N. B., & Toh, C. A. (2019). Looking for Inspiration: Understanding the Information Evaluation and Seeking Behavior of Novice Designers During Creative Idea Generation. In Proceedings of The 22nd International Conference on Engineering Design, Delft, The Netherlands (Pending Publication)
+
+Abid, A., Shi, W., & Toh, C. A. (2018). The ends or the means? Understanding how students use causal and effectual information during design activities. In ASME 2018 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC/CIE 2018. American Society of Mechanical Engineers (ASME).
 
 Lumbard, K., Abid, A., Toh, C., & Germonprez, M. (2018). Knowing and Designing: Understanding Information Use in Open Source Design Through the Lens of Information Archetypes. HICSS 2018, Hawaii.
-
-Abid, A.,  IDETC 2018 ?
-
-Damen, D.,  IDETC 2018 ?
-
 
 ## License
 &copy; 2019 Kevin Lumbard, Christine Toh, Matt Germonprez, Nicole Damen, Attakias Mertens, Sue Yi, and Ammar Abid.  
