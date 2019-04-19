@@ -16,8 +16,8 @@ vol. 21, no. 5, pp. 523–538, Sep. 2000.
 6. What if anything, is missing from these design discussions?
 7. Who are the stakeholders and where do you believe insight about the design is generated?
 8. When you look at design information coming from different sources, what factors determine the quality of that information?
-9. How do you think we can measure the success of design information across projects?
+9. How do you think we can measure design success across projects?
 10. Are there types of design information that you believe are universally used by designers?
 
 The interviews were conducted in a semi-structured conversational manner. The questions were modified to target the specific design work being undertaken. The interviews were conducted by a context expert to ensure that the questions and responses were correctly understood.
-Additional questions were added to answer domain specific questions that were reported back to the designers.
+Additional questions were added to provide context specific insight and were reported back to the designers.
