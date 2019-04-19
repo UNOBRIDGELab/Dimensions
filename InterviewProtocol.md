@@ -7,7 +7,7 @@ and constraints within information gathering and design processes [1]
 [1] C. Eckert and M. Stacey, “Sources of inspiration: a language of design,” Design Studies,
 vol. 21, no. 5, pp. 523–538, Sep. 2000.
 
-### Interview Protocol\*
+### Interview Protocol
 1. Could you give me an overview of your experiences and expertise as a designer?
 2. Could you talk about the importance of design information in your work?
 3. Could you talk about some specific instances where you have used design information in the past?
@@ -19,5 +19,5 @@ vol. 21, no. 5, pp. 523–538, Sep. 2000.
 9. How do you think we can measure the success of design information across projects?
 10. Are there types of design information that you believe are universally used by designers?
 
-\*The interviews were conducted in a semi-structured conversational manor. The questions were modified to target the specific design work being undertaken. The interviews were conducted by a context expert to ensure that the questions and responses were correctly understood.
+The interviews were conducted in a semi-structured conversational manner. The questions were modified to target the specific design work being undertaken. The interviews were conducted by a context expert to ensure that the questions and responses were correctly understood.
 Additional questions were added to answer domain specific questions that were reported back to the designers.
