@@ -8,7 +8,7 @@ Inquiries should be directed to Kevin Lumbard - klumbard@unomaha.edu
 
 Yi, S., Lumbard, K., Damen, N. B., Germonprez, M., & Toh, C. A. (2019). Towards An Information Archetypes Framework: Exploring The Types Of Information Used In Open Source Design Engagements. In ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC/CIE 2019. American Society of Mechanical Engineers (ASME). (Pending Publication)  
 
-Damen, N. B., & Toh, C. A. (2019). Investigating Information: A Qualitative Analysis Of EXPERT Designers’ Information Representation And Structuring Behaviors. In ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC/CIE 2019. American Society of Mechanical Engineers (ASME). (Pending Publication)
+Damen, N. B., & Toh, C. A. (2019). Investigating Information: A Qualitative Analysis Of Expert Designers’ Information Representation And Structuring Behaviors. In ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC/CIE 2019. American Society of Mechanical Engineers (ASME). (Pending Publication)
 
 Damen, N. B., & Toh, C. A. (2019). Looking for Inspiration: Understanding the Information Evaluation and Seeking Behavior of Novice Designers During Creative Idea Generation. In Proceedings of The 22nd International Conference on Engineering Design, Delft, The Netherlands (Pending Publication)
 
