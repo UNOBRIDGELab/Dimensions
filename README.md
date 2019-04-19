@@ -4,7 +4,7 @@ This repository provides complementary files related to Information Archetypes i
 
 Inquiries should be directed to Kevin Lumbard - klumbard@unomaha.edu
 
-Papers from this project:
+## Papers from this project:
 
 Yi, S., Lumbard, K., Damen, N., Germonprez, M., Toh, C., (2019). Towards an information archetypes framework: Exploring the types of information used in open source design engagements. IDETC 2019, CA. (Pending Publication)  
 
@@ -16,6 +16,6 @@ Damen, D.,  IDETC 2018 ?
 
 
 ## License
-&copy; 2019 Kevin Lumbard, Christine Toh, Matt Germonprez, Nicole Damen, Attakias Mertens and Ammar Abid.  
+&copy; 2019 Kevin Lumbard, Christine Toh, Matt Germonprez, Nicole Damen, Attakias Mertens, Sue Yi, and Ammar Abid.  
 
 The files in this repository are provided under an <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0) License</a>.
