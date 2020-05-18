@@ -17,6 +17,6 @@ Abid, A., Shi, W., & Toh, C. A. (2018). The ends or the means? Understanding how
 Lumbard, K., Abid, A., Toh, C., & Germonprez, M. (2018). Knowing and Designing: Understanding Information Use in Open Source Design Through the Lens of Information Archetypes. HICSS 2018, Hawaii.
 
 ## License
-&copy; 2019 Kevin Lumbard, Christine Toh, Matt Germonprez, Nicole Damen, Attakias Mertens, Sue Yi, and Ammar Abid.  
+&copy; 2020 Kevin Lumbard, Christine Toh, Matt Germonprez, Nicole Damen, Attakias Mertens, Sue Yi, and Ammar Abid.  
 
 The files in this repository are provided under an <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0) License</a>.
